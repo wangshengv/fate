@@ -1,5 +1,5 @@
-ip:
-port:
+ip: sheng.work
+port: 9380
 app_key:
 secret_key:
 log_directory:
